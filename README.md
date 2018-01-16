@@ -8,7 +8,6 @@ The Caesar cipher is one of the earliest known and simplest ciphers. It is a typ
 <br>
 ```
 plain:  abcdefghijklmnopqrstuvwxyz
-```
-```
+
 cipher: bcdefghijklmnopqrstuvwxyza
 ```
